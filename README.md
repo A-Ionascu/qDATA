@@ -10,19 +10,19 @@
 
 #
 #
-#### Dependencies:
+### Dependencies:
 
 Prior to data analysis we highly recommend installing the latest versions of **R** (https://cran.r-project.org/) and **RStudio** (https://posit.co/downloads/). Our application was designed to accommodate a diversity of operating systems assuming that the R version 4.1.0 is compatible. For installation instructions follow the attached [R_installation.pdf](https://github.com/A-Ionascu/qDATA/blob/main/R_installation.pdf) file.
 
 #
 
-#### Running **qDATA**:
+### Running **qDATA**:
 
 **qDATA** does not require any additional dependencies installation rather than R and RStudio. For Ubuntu-based systems, run [Linux_setup.sh](https://github.com/A-Ionascu/qDATA/blob/main/Linux_setup.sh) prior to running the software. We recommend opening the [qDATA.R](https://github.com/A-Ionascu/qDATA/blob/main/qDATA.R) file in RStudio and running the application with the `Run App` button. Internet connection is required only when the application loads for the first time as all required R packages are downloaded on the local machine.
 
 #
 
-#### Using **qDATA**:
+### Using **qDATA**:
 
 When the application loads, the user is greeted with a modern GUI structured on two windows. The former is the main data analysis environment and the latter offers information about all the abbreviations used in the app. The main window contains an always-on left side panel and a central area for results output. The left side panel contains a browse button which is used to select the input table from any directory on the local machine. In order to change the input data table, the user simply uploads another table using the `Browse` button and the application retrieves the output for the newly uploaded data. Throughout the data analysis process, the user is able to modify parameters from the left side panel with impact on the entire analysis. When an `Update results` button appears under the parameter, the modification is applied after clicking the button. 
 
@@ -35,7 +35,7 @@ The qDATA software can be run in the browser by clicking the `Open in Browser` b
 
 #
 
-#### Contact and feedback:
+### Contact and feedback:
 
 For offering feedback or any type of inquires about the application, please contact us at **aionascu.g@gmail.com**.  
 

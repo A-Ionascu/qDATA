@@ -1,10 +1,10 @@
 # qDATA
-R based analysis of qRT-PCR data
+### R based analysis of qRT-PCR data
 
 
-#### **qDATA** is a bioinformatics tool created with R Shiny in the Drosophila Laboratory, Department of Genetics, Faculty of Biology, University of Bucharest.
+### **qDATA** is a bioinformatics tool created with R Shiny in the Drosophila Laboratory, Department of Genetics, Faculty of Biology, University of Bucharest.
 
-#### For citing our tool, please use: TBP
+### For citing our tool, please use: TBP
 
 #
 #
@@ -29,3 +29,12 @@ When the application loads, the user is greeted with a modern GUI structured on 
 
 
 The qDATA software can be run in the browser by clicking the `Open in Browser` button at the top of the RStudio IDE window. Therefore, the user can use multiple independent instances of the application in its browser mode. When the application is run from the RStudio IDE, the local machine works as the server, both for the RStudio window and the browser instances. Closing the RStudio environment automatically disconnects the server and freezes the browser instances. In order to close the RStudio qDATA window, we recommend using the `Stop` button located at the top of the RStudio IDE Console rather than simply closing the running GUI.
+
+
+#
+#### Contact and feedback:
+
+For offering feedback or any type of inquires about the application, please contact us at **aionascu.g@gmail.com**.  
+
+
+

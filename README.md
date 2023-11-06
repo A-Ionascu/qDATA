@@ -1,7 +1,7 @@
 # qDATA
 ### R based analysis of qRT-PCR data
 
-<p align="justify">
+<div align="justify">
 
 ### **qDATA** is a bioinformatics tool created with R Shiny in the Drosophila Laboratory, Department of Genetics, Faculty of Biology, University of Bucharest.
 
@@ -38,4 +38,4 @@ The qDATA software can be run in the browser by clicking the `Open in Browser` b
 For offering feedback or any type of inquires about the application, please contact us at **aionascu.g@gmail.com**.  
 
 
-</p>
+</div>

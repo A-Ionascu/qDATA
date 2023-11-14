@@ -18,7 +18,7 @@ Prior to data analysis we highly recommend installing the latest versions of **R
 
 ### Running **qDATA**:
 
-**qDATA** does not require any additional dependencies installation rather than R and RStudio. For Ubuntu-based systems, run [Linux_setup.sh](https://github.com/A-Ionascu/qDATA/blob/main/Linux_setup.sh) prior to running the software. We recommend opening the [qDATA.R](https://github.com/A-Ionascu/qDATA/blob/main/qDATA.R) file in RStudio and running the application with the `Run App` button. Internet connection is required only when the application loads for the first time as all required R packages are downloaded on the local machine.
+**qDATA** does not require any additional dependencies installation rather than R and RStudio. For Ubuntu-based systems, run [Linux_setup.sh](https://github.com/A-Ionascu/qDATA/blob/main/Linux_setup.sh) prior to running the software. We recommend opening the [qDATA.R](https://github.com/A-Ionascu/qDATA/blob/main/qDATA.R) file in RStudio and running the application with the `Run App` button. Internet connection is required only when the application loads for the first time as all R packages are downloaded on the local machine.
 
 #
 

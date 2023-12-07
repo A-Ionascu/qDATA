@@ -5,9 +5,9 @@
 
 ### **qDATA** is a bioinformatics tool created with R Shiny in the Drosophila Laboratory, Department of Genetics, Faculty of Biology, University of Bucharest.
 
-## For citing our tool, please use: Ionascu, A., Ecovoiu, A. A., Chifiriuc, M. C., & Ratiu, A. C. (2023). qDATA-an R application implementing a practical framework for analyzing quantitative Real-Time PCR data. bioRxiv, 2023-11.
+For citing our tool, please use: Ionascu, A., Ecovoiu, A. A., Chifiriuc, M. C., & Ratiu, A. C. (2023). qDATA-an R application implementing a practical framework for analyzing quantitative Real-Time PCR data. bioRxiv, 2023-11.
 
-## Access qDATA article at: https://doi.org/10.1101/2023.11.29.569183 
+Access qDATA article at: https://doi.org/10.1101/2023.11.29.569183 
 
 
 #

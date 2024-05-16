@@ -41,7 +41,7 @@ The qDATA software can be run in the browser by clicking the `Open in Browser` b
 
 ### Contact and feedback:
 
-For offering feedback or any type of inquires about the application, please contact us at **aionascu.g@gmail.com**.  
+For offering feedback or any type of inquires about the application, please contact us at **a.ionascu20@s.bio.unibuc.ro**.  
 
 
 </div>

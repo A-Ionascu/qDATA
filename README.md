@@ -5,6 +5,8 @@
 
 ### **qDATA** is a bioinformatics tool created with R Shiny in the Drosophila Laboratory, Department of Genetics, Faculty of Biology, University of Bucharest.
 
+The main purpose of qDATA is to quickly analyse raw qRT-PCR output data in the form of Ct values by implementing the Livak and Schmittgen (2001, https://doi.org/10.1006/meth.2001.1262) 2<sup>-ΔΔCt</sup> method. qDATA uses a modern GUI for calculating descriptive statistics, normality testing, statistical testing and fold change values.
+
 For citing our tool, please use: Ionascu, A., Ecovoiu, A.A., Chifiriuc, M.C., Ratiu, A.C. (2023). qDATA - an R application implementing a practical framework for analyzing quantitative Real-Time PCR data. *bioRxiv*, 2023-11.
 
 Access qDATA article at: https://doi.org/10.1101/2023.11.29.569183 
@@ -39,7 +41,7 @@ The qDATA software can be run in the browser by clicking the `Open in Browser` b
 
 ### Contact and feedback:
 
-For offering feedback or any type of inquires about the application, please contact us at **aionascu.g@gmail.com**.  
+For offering feedback or any type of inquires about the application, please contact us at **a.ionascu20@s.bio.unibuc.ro**.  
 
 
 </div>

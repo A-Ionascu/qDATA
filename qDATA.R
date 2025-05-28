@@ -1282,7 +1282,7 @@ if(interactive()){
       teste[2,4] <- paste0(fa(name="circle-xmark", fill="red"))
       
       teste[3,3] <- paste0(fa(name="circle-xmark", fill="red"))
-      teste[3,4] <- paste0(fa(name="circle-check", fill="red"))
+      teste[3,4] <- paste0(fa(name="circle-check", fill="green"))
       
       teste
     })

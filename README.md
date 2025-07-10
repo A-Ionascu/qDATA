@@ -9,7 +9,7 @@ The main purpose of qDATA is to quickly analyse raw qRT-PCR output data in the f
 
 For citing our tool, please use: Ionascu, A., Ecovoiu, A.A., Chifiriuc, M.C., Ratiu, A.C. (2023). qDATA - an R application implementing a practical framework for analyzing quantitative Real-Time PCR data. *bioRxiv*, 2023-11.
 
-Access qDATA article at: https://www.tandfonline.com/doi/10.1080/07366205.2024.2442217?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed  (https://doi.org/10.1101/2023.11.29.569183)
+Access qDATA article at: https://www.tandfonline.com/doi/10.1080/07366205.2024.2442217?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed (https://doi.org/10.1101/2023.11.29.569183)
 
 
 #
